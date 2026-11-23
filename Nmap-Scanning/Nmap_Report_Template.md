@@ -1,0 +1,17 @@
+# Nmap Scan Report
+- Analyst:
+- Date/time:
+- Target IP/hostname:
+- Target role:
+- Network isolation:
+- Nmap version:
+- Commands used:
+- Host status:
+- TCP open ports/services:
+- UDP results:
+- Service versions:
+- OS guess:
+- Key observations:
+- Limitations:
+- Defensive recommendations:
+- Evidence filenames:
